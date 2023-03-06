@@ -1,6 +1,6 @@
 # Year-11-CS-Unit-7-Arraylists-Quiz-Person
 
-Ensure that you read all instructions carefully. Do not include any additional methods that are not specified in this quiz description. Think carefully about your solution before writing anything down. Write your answers neatly - take pride in your work! Good luck, have fun! :)
+Ensure that you read all instructions carefully. Do not include any additional methods that are not specified in this quiz description. Think carefully about your solution before coding. Use meaningful variable names and ensure to use proper indentation - take pride in your work! Good luck, have fun! :)
 
 1. Inside the <b>Person</b> class, implement a <b>constructor</b>. The constructor should have three parameters and these parameters should be used to initialize the state of a Person object. 
 (1 mark)
