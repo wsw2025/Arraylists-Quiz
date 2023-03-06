@@ -18,16 +18,16 @@ Ensure that you read all instructions carefully. Do not include any additional m
 
 allPersons = [person1, person2, person3, person4]
 
-Person1:
+person1:
     lastName = “Jacobson”
     
-Person2:
+person2:
     lastName = “Jammerson”
     
-Person3
+person3
     lastName = “Lam”
     
-Person4
+person4
     lastName = “Monka”
     
 Person <b>person5</b> = new Person(“Jacob”, “Lanson”, 19);
