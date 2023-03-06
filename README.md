@@ -14,7 +14,9 @@ Ensure that you read all instructions carefully. Do not include any additional m
 4. Inside the <b>Person</b> class, implement a <b>toString</b> method. Your toString method can follow any format so long as it returns a string that consists of all three properties and appropriate whitespaces between them. 
 (1 mark)
 
-5. Inside the <b>PersonFactory</b> class, complete the method <b>addPerson</b>. This method will take a <b>Person</b> object and add it to the <b>allPersons</b> list. The <b>Person object will be added to the position in the list corresponding to their last name</b>. That is, the allPersons list will be in ascending alphabetical order according to the last name of the Person objects stored in the allPersons list. For example:
+5. Inside the <b>PersonFactory</b> class, complete the method <b>addPerson</b>. This method will take a <b>Person</b> object and add it to the <b>allPersons</b> list. The <b>Person object will be added to the position in the list corresponding to their last name</b>. That is, the allPersons list will be in ascending alphabetical order according to the last name of the Person objects stored in the allPersons list. (6 marks)
+
+For example:
 
 allPersons = [person1, person2, person3, person4]
 
@@ -52,6 +54,6 @@ str2.compareTo(str1);	    // Will return +1 because Lan is greater than Lan (lex
 
 str1.compareTo(str3); 	    // Will return 0 because Lam and Lam are equivalent strings. 
 
-6. Inside the <b>PersonFactory</b> class, complete the method <b>under18</b>. This method will return a <b>new arraylist</b> containing all the person’s that are under the age of 18. 
+6. Inside the <b>PersonFactory</b> class, complete the method <b>under18</b>. This method will return a <b>new arraylist</b> containing all the person’s that are under the age of 18. (5 marks)
 
-7. Inside the <b>PersonFactory</b> class, complete the method <b>checkLastName</b>. This method will <b>return a boolean</b> depending on whether the allPersons list contains a person whose last name is equal to the argument (actual parameter) that is passed to the method. 
+7. Inside the <b>PersonFactory</b> class, complete the method <b>checkLastName</b>. This method will <b>return a boolean</b> depending on whether the allPersons list contains a person whose last name is equal to the argument (actual parameter) that is passed to the method. (5 marks)
