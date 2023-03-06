@@ -41,11 +41,15 @@ To know which index to insert the person object into in allPersons, you may use 
 Example:
 
 String str1 = “Lam”;
+
 String str2 = “Lan”;
+
 String str3 = “Lam”;
 
 str1.compareTo(str2); 	    // Will return -1 because Lam is less than Lan (lexicographically).
+
 str2.compareTo(str1);	    // Will return +1 because Lan is greater than Lan (lexicographically).
+
 str1.compareTo(str3); 	    // Will return 0 because Lam and Lam are equivalent strings. 
 
 6. Inside the <b>PersonFactory</b> class, complete the method <b>under18</b>. This method will return a <b>new arraylist</b> containing all the person’s that are under the age of 18. 
