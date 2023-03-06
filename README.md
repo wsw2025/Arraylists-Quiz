@@ -24,10 +24,10 @@ person1:
 person2:
     lastName = “Jammerson”
     
-person3
+person3:
     lastName = “Lam”
     
-person4
+person4:
     lastName = “Monka”
     
 Person <b>person5</b> = new Person(“Jacob”, “Lanson”, 19);
