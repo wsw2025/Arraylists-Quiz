@@ -20,10 +20,13 @@ allPersons = [person1, person2, person3, person4]
 
 Person1:
     lastName = “Jacobson”
+    
 Person2:
     lastName = “Jammerson”
+    
 Person3
     lastName = “Lam”
+    
 Person4
     lastName = “Monka”
     
